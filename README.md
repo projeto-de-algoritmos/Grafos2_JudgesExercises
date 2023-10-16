@@ -15,12 +15,23 @@ Este repositório foi criado para o desenvolvimento do segundo módulo sobre Gra
 
 # Foram feitos os exercícios no LeetCode
 
-## [ID exercicio]()
+## [ 787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
 
-Descrição
+Existem n cidades conectadas por um certo número de voos. É fornecido um array chamado "flights" onde flights[i] = [fromi, toi, pricei] indica que existe um voo da cidade fromi para a cidade toi com custo pricei.
 
+Também são fornecidos três números inteiros chamados src, dst e k. Você deve retornar o preço mais barato para viajar de src para dst com no máximo k paradas. Se não houver uma rota que satisfaça essas condições, retorne -1.
 
-![print do exercicio]()
+![Cheapest Flights Within K Stops](/images/787.jpeg)
+
+## [ 1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
+
+É fornecido um grafo ponderado não direcionado com n nós (indexados a partir de 0), representado por uma lista de arestas onde edges[i] = [a, b] é uma aresta não direcionada que conecta os nós a e b, com uma probabilidade de sucesso de atravessar essa aresta succProb[i].
+
+Dado dois nós start e end, encontre o caminho com a maior probabilidade de sucesso para ir de start a end e retorne a sua probabilidade de sucesso.
+
+Se não houver um caminho de start a end, retorne 0. A sua resposta será aceita se ela diferir da resposta correta em no máximo 1e-5.
+
+![Path with Maximum Probability](/images/1514.jpeg)
 
 
 # Instalação
