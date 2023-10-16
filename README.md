@@ -33,6 +33,23 @@ Se não houver um caminho de start a end, retorne 0. A sua resposta será aceita
 
 ![Path with Maximum Probability](/images/1514.jpeg)
 
+## [ 743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)
+
+Você recebe uma rede de n nós, rotulados de 1 a n. Você também recebe tempos, uma lista de tempos de viagem como arestas direcionadas tempos[i] = (ui, vi, wi), onde ui é o nó de origem, vi é o nó de destino e wi é o tempo que leva para um sinal viajar da origem ao destino.
+
+Enviaremos um sinal de um determinado nó k. Retorne o tempo mínimo que leva para todos os n nós receberem o sinal. Se for impossível que todos os n nós recebam o sinal, retorne -1.
+
+![743. Network Delay Time](/images/743.jpg)
+
+## [ 1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
+
+Você recebe uma matriz de pontos que representa coordenadas inteiras de alguns pontos em um plano 2D, onde points[i] = [xi, yi].
+
+O custo de conectar dois pontos [xi, yi] e [xj, yj] é a distância de Manhattan entre eles: |xi - xj| + |yi - yj|, onde |val| denota o valor absoluto de val.
+
+Retorne o custo mínimo para conectar todos os pontos. Todos os pontos estão conectados se houver exatamente um caminho simples entre dois pontos quaisquer
+
+![1584. Min Cost to Connect All Points](/images/1584.jpg)
 
 # Instalação
 
@@ -61,4 +78,3 @@ Cole o código copiado no editor.
 ## Passo 5: Rodar o código
 
 Abaixo do editor de código, clique em Run para executar o código.
-
