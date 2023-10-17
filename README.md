@@ -11,7 +11,7 @@ Este repositório foi criado para o desenvolvimento do segundo módulo sobre Gra
 
 # Apresentação
 
-[Link para a apresentação da dupla]()
+[Link para a apresentação da dupla](https://youtu.be/4INyf2Y3dNI)
 
 # Foram feitos os exercícios no LeetCode
 
